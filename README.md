@@ -1,4 +1,4 @@
-# kibana_viz_clock
+# kibana_viz_leaving_button
 
 
 See the [kibana contributing guide](https://github.com/elastic/kibana/blob/master/CONTRIBUTING.md) for instructions setting up your development environment. Once you have completed that, use the following npm tasks.
